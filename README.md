@@ -1,5 +1,5 @@
 ### hi, im a code noob
-![]https://github-readme-stats.vercel.app/api/top-langs/?username=NyoMaple&langs_count=10&theme=tokyonight&layout=compact
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyoMaple&langs_count=10&theme=tokyonight&layout=compact)
 
 <!-- 
 **NyoMaple/NyoMaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
