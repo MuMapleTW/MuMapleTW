@@ -1,4 +1,4 @@
-### Hi there 👋
+`### hi, im a code noob`
 
 <!-- 
 **NyoMaple/NyoMaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
