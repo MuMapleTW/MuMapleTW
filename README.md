@@ -1,5 +1,5 @@
 ### hi, im a code noob
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyoMaple&langs_count=10&theme=tokyonight&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuMapleTW&langs_count=10&theme=tokyonight&layout=compact)
 
 <!-- 
 **NyoMaple/NyoMaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-![Metrics](https://metrics.lecoq.io/NyoMaple?template=classic&config.timezone=Asia%2FTaipei)
+![Metrics](https://metrics.lecoq.io/MuMapleTW?template=classic&config.timezone=Asia%2FTaipei)
