@@ -17,6 +17,3 @@ Here are some ideas to get you started:
  -->
 
 ![Metrics](https://metrics.lecoq.io/NyoMaple?template=classic&config.timezone=Asia%2FTaipei)
-
-javascript最棒python最爛<br>
-想必 @seriaati 也是這麼想的
